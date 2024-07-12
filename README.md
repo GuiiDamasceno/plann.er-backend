@@ -29,6 +29,9 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 <h2 id="usage">Executando o Back-end</h2>
 
 ```bash
+# Clone o projeto para o local desejado em seu computador.
+$ https://github.com/GuiiDamasceno/plann.er-backend.git
+
 # No BackEnd insira uma porta, as urls e o arquivo do banco de dados no arquivo .env vazio
   DATABASE_URL=
   API_BASE_URL=
