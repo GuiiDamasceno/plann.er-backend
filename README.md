@@ -47,3 +47,11 @@ $ npm install
 # Agora inicie o servidor do BackEnd
 $ npm run dev
 ```
+
+---
+
+  <p align="center">
+    Desenvolvido por: Guilherme Damasceno
+  </p>
+
+  [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Damasceno-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-damasceno-1b703a286/)](https://www.linkedin.com/in/guilherme-damasceno-1b703a286/)
