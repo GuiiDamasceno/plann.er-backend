@@ -29,6 +29,9 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 <h2 id="usage">Executando o Back-end</h2>
 
 ```bash
+# Clone o projeto para o local desejado em seu computador.
+$ https://github.com/GuiiDamasceno/plann.er-backend.git
+
 # No BackEnd insira uma porta, as urls e o arquivo do banco de dados no arquivo .env vazio
   DATABASE_URL=
   API_BASE_URL=
@@ -44,3 +47,11 @@ $ npm install
 # Agora inicie o servidor do BackEnd
 $ npm run dev
 ```
+
+---
+
+  <p align="center">
+    Desenvolvido por: Guilherme Damasceno
+  </p>
+
+  [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Damasceno-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-damasceno-1b703a286/)](https://www.linkedin.com/in/guilherme-damasceno-1b703a286/)
