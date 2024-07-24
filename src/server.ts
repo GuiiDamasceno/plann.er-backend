@@ -40,6 +40,6 @@ app.register(updateTrip)
 app.register(getTripDetails)
 app.register(getParticipant)
 
-app.listen({ port: env.PORT }).then(() => {
+app.listen({ port: env.PORT } || 3000).then(() => {
   console.log(`Server is running on port ${env.PORT}`);
 })
